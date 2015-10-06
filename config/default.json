@@ -1,0 +1,11 @@
+{
+    "orientdb": {
+      "host": "localhost",
+      "port": 2424,
+      "server_username": "root",
+      "server_password": "Monday123!",
+      "db": "testv1",
+      "db_username": "test",
+      "db_password": "password"
+    }
+}
